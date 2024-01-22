@@ -1,5 +1,6 @@
 import tkinter as tk
 import pandas as pd
+import random as ra
 
 BACKGROUND_COLOR = "#B1DDC6"
 window = tk.Tk()
